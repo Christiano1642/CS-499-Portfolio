@@ -18,8 +18,8 @@ This ePortfolio represents the culmination of my program and demonstrates my rea
 **Artifact:** Travlr Getaways Full-Stack Application  
 **Enhancement:** Refactored the Express.js backend for improved modularity, introduced error-handling middleware, and added query-based pagination and filtering.  
 
-📄 [Narrative – Software Design & Engineering](docs/Enhancement1_SoftwareDesign.docx)  
-💻 [View Enhanced Code](artifacts/software_design)  
+📄 [Narrative – Software Design & Engineering](Milestone_Two_Enhancement_Narrative_with_Screenshots.docx)  
+💻 [View Enhanced Code](travel.js)  
 
 **Course Outcomes Met:**  
 - Designed and evaluated computing solutions using algorithmic principles.  
@@ -31,8 +31,8 @@ This ePortfolio represents the culmination of my program and demonstrates my rea
 **Artifact:** Grant Management System  
 **Enhancement:** Optimized SQL queries and LINQ expressions for efficiency, added pagination for large data sets, and improved data retrieval algorithms.  
 
-📄 [Narrative – Algorithms & Data Structures](docs/Enhancement2_Algorithms.docx)  
-💻 [View Enhanced Code](artifacts/algorithms)  
+📄 [Narrative – Algorithms & Data Structures](Milestone_Four_Final_Enhancement_Narrative.docx)  
+💻 [View Enhanced Code](config.js)  
 
 **Course Outcomes Met:**  
 - Improved efficiency of computing solutions using advanced algorithms.  
@@ -44,9 +44,8 @@ This ePortfolio represents the culmination of my program and demonstrates my rea
 **Artifact:** Travlr Getaways Trip Management  
 **Enhancement:** Implemented **audit fields** (`CreatedAt`, `UpdatedAt`, `UpdatedBy`, `IsDeleted`, `DeletedAt`) with Mongoose schema hooks, added **soft-delete and restore functionality**, and ensured query filtering for active data.  
 
-📄 [Narrative – Databases](docs/Enhancement3_Databases.docx)  
-💻 [View Enhanced Code](artifacts/databases)  
-🖼️ [Screenshots of Enhancements](docs/screenshots)  
+📄 [Narrative – Databases](Milestone_Five_Database_Enhancement.docx)  
+💻 [View Enhanced Code](audit.plugin.js)   
 
 **Course Outcomes Met:**  
 - Demonstrated the use of innovative database techniques.  
@@ -54,12 +53,6 @@ This ePortfolio represents the culmination of my program and demonstrates my rea
 
 ---
 
-## 🧾 Professional Self-Assessment
-📄 [Read Professional Self-Assessment](docs/Professional_Self_Assessment.docx)  
-
-This self-assessment reflects on my academic journey, professional growth, and future career goals. It introduces the portfolio as a whole and highlights how my artifacts demonstrate mastery across software engineering, algorithms, and databases.
-
----
 
 ## 🚀 Skills Demonstrated
 - ✅ Full-stack web application development (MEAN & .NET stack)  
@@ -69,5 +62,3 @@ This self-assessment reflects on my academic journey, professional growth, and f
 - ✅ Agile development and collaborative workflows  
 
 ---
-
-## 📌 Repository Structure
